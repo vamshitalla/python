@@ -1,3 +1,6 @@
+# Author: Vamshi Talla
+# Date  : 12/02/2017
+
 import csv
 
 with open('b.csv') as csvfile:
