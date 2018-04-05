@@ -1,0 +1,1 @@
+This is a POC of Market6 Point Of Sale (POS) data for "Lift and Shift" effort!
